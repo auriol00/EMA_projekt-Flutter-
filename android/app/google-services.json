@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312702665775",
+    "project_id": "moonflow2004",
+    "storage_bucket": "moonflow2004.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312702665775:android:072da738c811da7f1a72da",
+        "android_client_info": {
+          "package_name": "com.example.navigation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4kdkI8qZN59tkzan1QJ-liN7Z9Z_E3N8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
